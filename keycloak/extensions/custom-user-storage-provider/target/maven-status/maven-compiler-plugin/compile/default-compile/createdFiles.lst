@@ -1,0 +1,12 @@
+com/skoiy/UserAdapter.class
+com/skoiy/PeanutsUserProviderFactory.class
+com/skoiy/App.class
+com/skoiy/Constants.class
+com/skoiy/external/PeanutsClientSimpleHttp.class
+com/skoiy/PeanutsUserProvider.class
+com/skoiy/UserGroupModel.class
+com/skoiy/external/CredentialData.class
+com/skoiy/external/PeanutsClientSimpleHttp$1.class
+com/skoiy/UserRoleModel.class
+com/skoiy/external/Peanut.class
+com/skoiy/external/PeanutsClient.class
