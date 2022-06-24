@@ -4,6 +4,7 @@ package com.skoiy;
 //import com.skoiy.external.Peanut;
 //import com.skoiy.external.PeanutsClient;
 //import com.skoiy.external.PeanutsClientSimpleHttp;
+
 import org.keycloak.component.ComponentModel;
 import org.keycloak.credential.CredentialInput;
 import org.keycloak.credential.CredentialInputUpdater;
@@ -105,12 +106,12 @@ public class PeanutsUserProvider implements UserStorageProvider,
 
     @Override
     public Stream<UserModel> getUsersStream(RealmModel realm, Integer firstResult, Integer maxResults) {
-		return null;
+        return null;
     }
 
     @Override
     public Stream<UserModel> searchForUserStream(RealmModel realm, String search, Integer firstResult, Integer maxResults) {
-		return null;
+        return null;
     }
 
     @Override

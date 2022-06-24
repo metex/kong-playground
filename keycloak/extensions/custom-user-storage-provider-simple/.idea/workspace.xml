@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbb55df8-2525-46d8-864d-57bed7c5493e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../custom-user-storage-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../custom-user-storage-provider/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../custom-user-storage-provider/target/custom-user-storage-provider-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../custom-user-storage-provider/target/custom-user-storage-provider-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../custom-user-storage-provider/target/dasniko.keycloak-user-provider.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/skoiy/PeanutsUserProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/skoiy/PeanutsUserProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/services/org.keycloak.services.resource.RealmResourceProviderFactory" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/services/org.keycloak.services.resource.RealmResourceProviderFactory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/services/org.keycloak.services.resource.RealmResourceProviderFactory" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/services/org.keycloak.services.resource.RealmResourceProviderFactory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/skoiy/PeanutsUserProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/skoiy/PeanutsUserProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/custom-user-storage-provider-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/custom-user-storage-provider-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656083296243</updated>
-      <workItem from="1656083297320" duration="531000" />
+      <workItem from="1656083297320" duration="1418000" />
     </task>
     <servers />
   </component>
