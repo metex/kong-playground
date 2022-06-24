@@ -1,0 +1,11 @@
+/home/bruno/lab/_experiments/kong-playground/keycloak/extensions/custom-user-storage-provider/src/main/java/com/skoiy/PeanutsUserProviderFactory.java
+/home/bruno/lab/_experiments/kong-playground/keycloak/extensions/custom-user-storage-provider/src/main/java/com/skoiy/PeanutsUserProvider.java
+/home/bruno/lab/_experiments/kong-playground/keycloak/extensions/custom-user-storage-provider/src/main/java/com/skoiy/Constants.java
+/home/bruno/lab/_experiments/kong-playground/keycloak/extensions/custom-user-storage-provider/src/main/java/com/skoiy/external/CredentialData.java
+/home/bruno/lab/_experiments/kong-playground/keycloak/extensions/custom-user-storage-provider/src/main/java/com/skoiy/external/Peanut.java
+/home/bruno/lab/_experiments/kong-playground/keycloak/extensions/custom-user-storage-provider/src/main/java/com/skoiy/UserGroupModel.java
+/home/bruno/lab/_experiments/kong-playground/keycloak/extensions/custom-user-storage-provider/src/main/java/com/skoiy/external/PeanutsClient.java
+/home/bruno/lab/_experiments/kong-playground/keycloak/extensions/custom-user-storage-provider/src/main/java/com/skoiy/UserAdapter.java
+/home/bruno/lab/_experiments/kong-playground/keycloak/extensions/custom-user-storage-provider/src/main/java/com/skoiy/external/PeanutsClientSimpleHttp.java
+/home/bruno/lab/_experiments/kong-playground/keycloak/extensions/custom-user-storage-provider/src/main/java/com/skoiy/App.java
+/home/bruno/lab/_experiments/kong-playground/keycloak/extensions/custom-user-storage-provider/src/main/java/com/skoiy/UserRoleModel.java
