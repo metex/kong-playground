@@ -1,6 +1,5 @@
 com/skoiy/UserAdapter.class
 com/skoiy/PeanutsUserProviderFactory.class
-com/skoiy/App.class
 com/skoiy/Constants.class
 com/skoiy/external/PeanutsClientSimpleHttp.class
 com/skoiy/PeanutsUserProvider.class
